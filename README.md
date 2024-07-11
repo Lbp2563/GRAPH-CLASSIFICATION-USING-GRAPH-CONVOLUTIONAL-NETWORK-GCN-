@@ -82,3 +82,13 @@ Debnath, A. K., Lopez de Compadre, R. L., Debnath, G., Shusterman, A. J., & Hans
 
 ## Dataset Link
 [MUTAG Dataset](https://paperswithcode.com/dataset/mutag)
+
+## Author
+
+[Krishi Desai](https://github.com/krishi-03)
+[Lakshit Pathak](https://github.com/Lakshit-25)
+[Lakshin Pathak](https://github.com/Lbp2563)
+
+## License
+
+This project is licensed under the MIT License.
