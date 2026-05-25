@@ -88,7 +88,7 @@ Debnath, A. K., Lopez de Compadre, R. L., Debnath, G., Shusterman, A. J., & Hans
 [Krishi Desai](https://github.com/krishi-03)
 [Lakshit Pathak](https://github.com/Lakshit-25)
 [Lakshin Pathak](https://github.com/Lbp2563)
-[Khushi Shah[https://github.com/KHUSHI0809]
+[Khushi Shah] (https://github.com/KHUSHI0809)
 
 ## License
 
